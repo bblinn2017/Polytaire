@@ -1,0 +1,32 @@
+input[type="number"] {
+  width: 3em;
+}
+
+.center{
+	text-align: center;
+}
+
+body{
+	background-size: cover;
+	color: green; 
+}
+
+.form1{
+	float: left;
+	margin: 50px;
+}
+
+.form2{
+	float: right;
+	margin: 50px;
+}
+
+.header{
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+.title{
+	font-size: 35px;
+}
+

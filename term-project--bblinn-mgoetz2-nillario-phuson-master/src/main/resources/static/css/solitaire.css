@@ -1,0 +1,125 @@
+body{
+	background-size: cover;
+	background-color: green;
+	color: black;
+	font-family: 'Trebuchet MS', cursive;
+}
+
+.center{
+	background-color: #c1c1c1;
+	text-align: center;
+}
+
+.card {
+	position: absolute;
+	width:80px;
+	height:100px;
+}
+
+.host_table {
+	font-size: 60px;
+}
+
+.template {
+	display:none;
+}
+
+.hidden{
+	display:none;
+}
+
+.myCanvas{
+
+	z-index: 0;
+}
+
+.button{
+	top: 200px;
+	z-index: 1;
+	border-radius: 15px;
+
+}
+
+.show{
+	display:block;
+}
+
+.green{
+	background-color: green;
+}
+
+#joinTextBox{
+	width:300px;
+	height:20px;"
+}
+
+.OpponentText{
+	position: relative;
+	top: 500px;
+	left: 40px;
+}
+.myID{
+	position: relative;
+	float: right;
+	margin: 30px;
+	top: -70px;
+}
+.powerup {
+	position:absolute;
+}
+
+#doublescore.fade {
+	opacity: 0;
+	transition: 4.0s opacity;
+}
+
+.incoming {
+	font-size: 35px;
+	position: absolute;
+	float: left;
+	margin: 200px;
+	top: 0px;
+}
+
+.centerMessage {
+	width: 300px;
+	margin: auto;
+	line-height:190%;
+	font-size: 16pt;
+}
+
+#top{
+	font-size: 30px;
+}
+
+.opponentTableauNum{
+	top: 530px;
+	position: absolute;
+}
+
+.middle{
+	top: 50px;
+}
+
+.welcome{
+	top: 70px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.buttons{
+	top: 200px;
+}
+.goal{
+	font-size: 30px;
+}
+
+.larger{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.hrClass{
+	width: 20px;
+	color: black;
+}

@@ -1,0 +1,15 @@
+/target/
+/bin/
+
+.mvn-classpath
+.classpath
+
+*.DS_Store
+*.swp
+*.tmp
+*.log
+*.iml
+.project
+.settings/
+.idea/*
+*.sqlite*
